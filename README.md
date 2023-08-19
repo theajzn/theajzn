@@ -1,7 +1,8 @@
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://theajzn.io)
 <h1 align="center">Hi 👋, I'm Thea</h1>
 <h3 align="center">I am a Software Developer with a passion to pick up new skills and technologies</h3>
 
-<img align= "right" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img align= "right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlmZzZ5Z215cjZhZXhzcDdzNHVoc3Uya3BpMGw5ZDR4YmhpdXgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theajzn&label=Profile%20views&color=0e75b6&style=flat" alt="theajzn" /> </p>
 
 - 🌱 I’m currently learning **MERN, MEAN, Python**
